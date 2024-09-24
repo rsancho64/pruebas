@@ -64,4 +64,8 @@ El programa python equivalente es [**este**](https://github.com/rsancho64/python
 
 ## Etc
 
+### pytopics to know
+
 Una buena organización de [*"pythonitems"*](https://zetcode.com/all/#python)
+
+
