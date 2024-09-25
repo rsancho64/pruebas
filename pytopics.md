@@ -1,4 +1,4 @@
-- [ ] [add string](https://zetcode.com/python/add-string/)
+- [x] [add string](https://zetcode.com/python/add-string/)
 
 - [ ] [list](https://zetcode.com/python/list/)
 - [ ] [list slice](https://zetcode.com/python/list-slice/)
