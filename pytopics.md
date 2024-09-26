@@ -1,7 +1,7 @@
 - [x] [add string](https://zetcode.com/python/add-string/)
 
-- [ ] [list](https://zetcode.com/python/list/)
-- [ ] [list slice](https://zetcode.com/python/list-slice/)
+- [x] [list](https://zetcode.com/python/list/)
+- [x] [list slice](https://zetcode.com/python/list-slice/)
 - [ ] [add list element](https://zetcode.com/python/add-list-element/)
 - [ ] [list loop](https://zetcode.com/python/list-loop/)
 - [ ] [list to string](https://zetcode.com/python/list-to-string/)
@@ -19,8 +19,6 @@
 - [ ] [assert](https://zetcode.com/python/assert/)
 - [ ] [async/await](https://zetcode.com/python/async-await/)
 - [ ] [asyncio](https://zetcode.com/python/asyncio/)
-
-
 
 - [ ] [Beautifulsoup](https://zetcode.com/python/beautifulsoup/)
 - [ ] [Binance](https://zetcode.com/python/python-binance/)
