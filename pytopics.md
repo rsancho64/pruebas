@@ -106,7 +106,7 @@
 - [ ] [replace string](https://zetcode.com/python/replace-string/)
 - [ ] [Requests](https://zetcode.com/python/requests/)
 - [ ] [reverse](https://zetcode.com/python/reverse/)
-- [ ] [rich](https://zetcode.com/python/rich/)
+- [x] [rich](https://zetcode.com/python/rich/)
 - [ ] [Selenium](https://zetcode.com/python/selenium/)
 
 - [ ] [simplejson](https://zetcode.com/python/simplejson/)
