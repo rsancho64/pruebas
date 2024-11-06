@@ -10,7 +10,7 @@
 
 - [ ] [for loop](https://zetcode.com/python/python-forloop/)
 
-- [ ] [set](https://zetcode.com/python/set/)
+- [x] [set](https://zetcode.com/python/set/)
 
 - [ ] [aiohttp](https://zetcode.com/python/aiohttp/)
 - [ ] [any & all builtins](https://zetcode.com/python/any-all/)
