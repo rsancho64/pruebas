@@ -6,7 +6,7 @@
 - [ ] [list loop](https://zetcode.com/python/list-loop/)
 - [ ] [list to string](https://zetcode.com/python/list-to-string/)
 - [ ] [list remove](https://zetcode.com/python/list-remove/)
-- [ ] [list comprehensions](https://zetcode.com/python/listcomprehensions/)
+- [x] [list comprehensions](https://zetcode.com/python/listcomprehensions/)
 
 - [ ] [for loop](https://zetcode.com/python/python-forloop/)
 
